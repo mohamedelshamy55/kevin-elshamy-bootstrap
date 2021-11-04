@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 
 - create a new folder
 - acccess the folder via command line
-- run this under the command line: (write website link).........................
+- run this under the command line: https://github.com/mohamedelshamy55/kevin-elshamy-bootstrap/tree/collaboration-1
 
 ### Prerequisites
 -Html
@@ -43,7 +43,13 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 -None
 
-👤 Author 1:-
+👤 Author 1:- Kevin Koome
+
+- GitHub: [@githubhandle](https://github.com/koomekevo)
+- Twitter: [@twitterhandle](https://twitter.com/koomekevo)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/kevin-koome-aab84186)
+
+👤 Author 2:- Mohamed Elshamy
 
 GitHub: https://github.com/mohamedelshamy55
 Twitter: https://mobile.twitter.com/moelshamy55
